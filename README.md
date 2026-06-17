@@ -194,24 +194,36 @@ Removes the Monster Orb cap from 3 to the maximum int value, which removes the s
 #### 8. [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) [v1.0.3]
 Adds health & damage UI indicators for enemies.
 
+#### 9. [CosmeticBoxScanner Fixed](https://thunderstore.io/c/repo/p/Wompierz/CosmeticBoxScanner_Fixed/) [v1.0.9]
+Overlay displaying counts of cosmetic boxes for current ingame level.
+
 ### ─────────────────────── Нововведения ───────────────────────
 
 #### 1. [MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/) [v1.7.3]
 Adds more unique upgrade items and is highly configurable.
 
-#### 2. [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/) [v1.0.4]
+#### 2. [ExtraBattleUpgrades](https://thunderstore.io/c/repo/p/DarkSpider/ExtraBattleUpgrades/required) [v1.1.0]
+Adds extra upgrades for R.E.P.O.
+
+#### 3. [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/) [v1.0.4]
 Allows dead players to open the map while spectating.
 
-#### 3. [FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/) [v1.1.0]
+#### 4. [FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/) [v1.1.0]
 Allows you to fly around while spectating.
 
-#### 4. [CANNON](https://thunderstore.io/c/repo/p/Sai/CANNON/) [v0.8.6]
+#### 5. [DeathHeadHopper](https://thunderstore.io/c/repo/p/Cronchy/DeathHeadHopper/v/2.1.8/) [v2.1.8]
+Allows you to hop around after death (enhanced spectate)
+
+#### 6. [DeathHeadHopperFix](https://thunderstore.io/c/repo/p/AdrenSnyder/DeathHeadHopperFix/) [v0.2.4]
+Fixes for DeathHeadHopper: Extended compatibility to the latest game versione, restored items/upgrades, done some charge tunings and added jump battery.
+
+#### 7. [CANNON](https://thunderstore.io/c/repo/p/Sai/CANNON/) [v0.8.6]
 Adds a fully functional and high power cannon to REPO
 
-#### 5. [BigNuke](https://thunderstore.io/c/repo/p/TitanVortex/BigNuke/) [v1.0.1]
+#### 8. [BigNuke](https://thunderstore.io/c/repo/p/TitanVortex/BigNuke/) [v1.0.1]
 Big Nuke with big explosion!
 
-#### 6. [BigNuke Fix](https://thunderstore.io/c/repo/p/Omniscye/BigNuke_Fix/) [v1.0.0]
+#### 9. [BigNuke Fix](https://thunderstore.io/c/repo/p/Omniscye/BigNuke_Fix/) [v1.0.0]
 Compatibility fix that updates BigNuke to work with the current version of REPO.
 
 ### ─────────────────────── Новые уровни ───────────────────────
@@ -248,4 +260,9 @@ Changes the grenade explosion sound to be a fart
 #### 4. [AhhhDeath](https://thunderstore.io/c/repo/p/Pudack/AhhhDeath/) [v1.0.1]
 Replaces the default death explosion with the ahhh echo meme.
 
-## Всего: 39 модов
+### ─────────────────────── Тестирование ───────────────────────
+
+#### 1. [Empress Spawn Browser](https://thunderstore.io/c/repo/p/Omniscye/Empress_Spawn_Browser/) [v4.5.0]
+The Ultimate control suite for REPO with powerful spawn tools, tax tokens, cosmetic boxes, world control, freecam, and live scene editing.
+
+## Всего: 44 мода
