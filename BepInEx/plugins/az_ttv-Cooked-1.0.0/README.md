@@ -1,0 +1,1 @@
+Replaces the alien levitation attack sound by the Cooked Dog meme

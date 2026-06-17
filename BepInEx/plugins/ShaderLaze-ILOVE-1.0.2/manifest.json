@@ -1,0 +1,9 @@
+{
+    "name": "ILOVE",
+    "version_number": "1.0.2",
+    "website_url": "https://discord.gg/NVdgwdeRnF",
+    "description": "Modify the love potion to make the player sing Malcolm Todd's song - Chest Pain (I Love)",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
