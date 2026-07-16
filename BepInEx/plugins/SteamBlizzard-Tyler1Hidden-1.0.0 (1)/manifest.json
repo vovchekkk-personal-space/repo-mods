@@ -1,0 +1,7 @@
+{
+    "name": "Tyler1Hidden",
+    "website_url": "",
+    "version_number": "1.0.0",
+    "description": "Adds a new sound for when The Hidden grabs you.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
