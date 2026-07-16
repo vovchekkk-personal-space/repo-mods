@@ -1,0 +1,11 @@
+{
+  "name": "Truck_Slot_Machine",
+  "version_number": "1.0.2",
+  "website_url": "https://thunderstore.io/c/repo/p/Omniscye/",
+  "description": "Adds a working slot machine to the REPO truck with synced multiplayer spins, animated reels, configurable gamble costs, shop payouts that give money, and level payouts that give player upgrades.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "Zehs-REPOLib-4.0.4",
+    "nickklmao-REPOConfig-1.2.6"
+  ]
+}

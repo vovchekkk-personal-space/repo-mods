@@ -1,0 +1,10 @@
+{
+  "name": "Better_Shop",
+  "description": "a mod that makes the shop better by making it BIGGER! Now BETTER perfomance! ",
+  "version_number": "1.4.2",
+  "dependencies": [
+    "Omniscye-Empress_ShopLoaderAPI-1.2.2",
+    "Jettcodey-MoreShopItems_Updated-3.3.0"
+  ],
+  "website_url": ""
+}

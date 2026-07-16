@@ -1,0 +1,9 @@
+{
+  "name": "ReturnToLobby",
+  "description": "Adds a menu button for host to return to lobby with current players.",
+  "version_number": "1.0.4",
+  "dependencies": [
+    "nickklmao-MenuLib-2.5.3"
+  ],
+  "website_url": ""
+}
