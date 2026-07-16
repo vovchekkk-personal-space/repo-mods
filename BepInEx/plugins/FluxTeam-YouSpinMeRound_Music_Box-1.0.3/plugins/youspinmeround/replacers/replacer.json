@@ -1,0 +1,15 @@
+{
+  "replacements": [
+    {
+      "matches": [
+        "*:trap musicbox music"
+      ],
+      "sounds": [
+        {
+          "sound": "YouSpinMeRound.ogg",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

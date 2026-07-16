@@ -1,0 +1,7 @@
+{
+    "name": "YippeeDuck",
+    "website_url": "",
+    "version_number": "1.0.1",
+    "description": "A very excited little guy!",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

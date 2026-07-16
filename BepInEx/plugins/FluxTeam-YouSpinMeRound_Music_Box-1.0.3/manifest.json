@@ -1,0 +1,11 @@
+{
+	"name": "YouSpinMeRound_Music_Box",
+	"author": "FluxTeam",
+	"version_number": "1.0.3",
+	"website_url": "https://thunderstore.io/c/repo/p/FluxTeam/YouSpinMeRound_Music_Box",
+	"description": "Music Box sound replacer - You Spin Me Round",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"loaforc-loaforcsSoundAPI-2.0.6"
+	]
+}
